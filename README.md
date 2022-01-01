@@ -5,7 +5,7 @@ This is a continuation of Konjimma's storyline remover mod, originally called GT
 So... I dug around and found his old code, and after learning a bit of how to use VS and some more additions to my coding knowledge, I decided to recontinue it.
 
 GUIDELINES:
-This is hosted under the ownership of Buizelette / SylveticHearts, and has been owned by me since it was transferred to my name after Konjimma's abandonment of the mod and disappearance around two or three years ago from the time of writing this. 
+This is hosted under the ownership of SylveticHearts, and has been owned by me since it was transferred to my name after Konjimma's abandonment of the mod and disappearance around two or three years ago from the time of writing this. 
  
 You may modify the mod for personal use. 
 You may host this on other GTA related modding sites that are deemed safe ONLY if I allowed you to do so formally.
