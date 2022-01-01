@@ -7,10 +7,10 @@ So... I dug around and found his old code, and after learning a bit of how to us
 GUIDELINES:
 This is hosted under the ownership of Buizelette / SylveticHearts, and has been owned by me since it was transferred to my name after Konjimma's abandonment of the mod and disappearance around two or three years ago from the time of writing this. 
  
-You may modify the mod for personal use.
+You may modify the mod for personal use. 
 You may host this on other GTA related modding sites that are deemed safe ONLY if I allowed you to do so formally.
 You may use the mod and it's functionality, like any player would.
 
-You may NOT host this anywhere except for 5Mods without prior permission. (The old versions on GTAInside that I originally posted are abandoned and lost)
-You may not make profit such as locking it behind a Patreon, or use URL shorteners if hosting it externally. (Why are you doing that? That's mean of you!)
-You may not claim this mod as your own. (With the exception of Konjimma if he returns someday)
+You may NOT host this anywhere except for 5Mods without prior permission.
+You may not make profit such as locking it behind a Patreon, or use URL shorteners if hosting it externally.
+You may not claim this mod as your own.
